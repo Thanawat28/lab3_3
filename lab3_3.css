@@ -1,0 +1,15 @@
+b{
+    background-color: yellow;
+    text-decoration: underline;
+}
+.gray-bg {
+    background-color:  #808080;
+}
+#year{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+input{
+    background-color: #808080;
+}
